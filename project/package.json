@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "\"demo project expressbees\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagar-bamgude/AddressNormalization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagar-bamgude/AddressNormalization/issues"
+  },
+  "homepage": "https://github.com/sagar-bamgude/AddressNormalization#readme"
+}
